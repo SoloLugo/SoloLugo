@@ -1,4 +1,3 @@
-package nivel1;
 import java.util.*;
 
 public class TareaNivel1 {
